@@ -1,0 +1,6 @@
+@InvestmentEngine.Api_HostAddress = http://localhost:5171
+
+GET {{InvestmentEngine.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
